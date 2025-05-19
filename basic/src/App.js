@@ -7,7 +7,7 @@ const App = () => {
   // return 내부에 작성되는 html 코드를 JSX라고 부른다.
   // JSX 내부는 하나의 태그로 묶여야 한다.
   // JSX를 포함하는 함수를 컴포넌트라 한다.
-  // 컴포넌트 이름은 대문자로 시작한다.
+  // 컴포넌트 이름은 대문자로 시작한다..
   return (
     <div className="App">
       <Section num="1" />
