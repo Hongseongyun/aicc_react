@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.section,
+.header,
+.footer {
+  width: 100%;
+  height: 300px;
+  border: 1px solid #000;
+}
+
+.header {
+  height: 100px;
+  background-color: #999;
+}

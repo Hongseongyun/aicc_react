@@ -1,0 +1,7 @@
+/* import 없이 적용 */
+
+.section {
+  width: 100%;
+  height: 300px;
+  border: 1px solid black;
+}
