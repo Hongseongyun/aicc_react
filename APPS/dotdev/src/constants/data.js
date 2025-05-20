@@ -13,7 +13,7 @@ import user5 from '../assets/profile-pictures/user5.jpg';
 import user6 from '../assets/profile-pictures/user6.jpg';
 
 export const navItems = [
-  { label: 'Home', to: '/react_ui' },
+  { label: 'Home', to: '/' },
   { label: 'Features', to: '/features' },
   // { label: 'Workflow', to: '/workflow' },
   // { label: 'Pricing', to: 'pricing' },
